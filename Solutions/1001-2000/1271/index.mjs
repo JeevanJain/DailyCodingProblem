@@ -4,7 +4,9 @@
 function rand7() {
     return Math.floor(Math.random() * 7) + 1;
 }
-
+/**
+ * @return {number}
+ */
 function rand5() {
     while (true) {
         let num = rand7();
