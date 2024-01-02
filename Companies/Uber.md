@@ -10,6 +10,6 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/0000-1000/002/index.mjs)
+[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/02/index.mjs)
 
 ---

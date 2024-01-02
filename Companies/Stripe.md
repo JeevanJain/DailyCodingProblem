@@ -10,6 +10,6 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/0000-1000/004/index.mjs)
+[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/04/index.mjs)
 
 ---

@@ -11,7 +11,7 @@ You run an e-commerce website and want to record the last `N order` ids in a log
 
 You should be as efficient with time and space as possible.
 
-[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/0000-1000/016/index.mjs)
+[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/016/index.mjs)
 
 ---
 

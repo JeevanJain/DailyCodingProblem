@@ -10,7 +10,7 @@ For example, given `[10, 15, 3, 7]` and `k` of `17`, return true since `10 + 7` 
 
 Bonus: Can you do this in one pass?
 
-[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/0000-1000/001/index.mjs)
+[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/01/index.mjs)
 
 ---
 
