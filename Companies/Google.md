@@ -47,3 +47,13 @@ For example, the following tree has 5 unival subtrees:
 [JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/08/index.mjs)
 
 ---
+
+## Problem 14
+
+This problem was asked by Google.
+
+The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method.
+
+Hint: The basic equation of a circle is x2 + y2 = r2.
+
+---
