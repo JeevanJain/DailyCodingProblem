@@ -49,7 +49,7 @@ You run an e-commerce website and want to record the last `N order` ids in a log
 
 You should be as efficient with time and space as possible.
 
-[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/016/index.mjs)
+[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/16/index.mjs)
 
 ---
 
@@ -64,5 +64,7 @@ For example, given A = 3 -> 7 -> 8 -> 10 and B = 99 -> 1 -> 8 -> 10, return the 
 In this example, assume nodes with the same value are the exact same node objects.
 
 Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
+
+[JavaScript](https://github.com/JeevanJain/DailyCodingProblem/blob/main/Solutions/00-99/20/index.mjs)
 
 ---
